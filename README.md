@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/banner.svg" alt="Achievement Forge — GitHub Workflow Studio by brunnodev" width="100%"></p>
+<p align="center"><img src="docs/banner.svg" alt="Achievement auto — GitHub Workflow Studio by brunnodev" width="100%"></p>
 
 <p align="center"><strong>Plan the workflow. Preview every action. Build your next milestone.</strong></p>
 <p align="center">Python standard library · Vanilla JavaScript · Local execution · Portuguese / English</p>
