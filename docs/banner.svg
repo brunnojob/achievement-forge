@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title desc">
+<title id="title">Achievement Forge</title><desc id="desc">GitHub Workflow Studio by brunnodev. Plan. Preview. Execute.</desc>
+<rect width="1440" height="420" rx="18" fill="#101110"/><rect x="1" y="1" width="1438" height="418" rx="18" fill="none" stroke="#2a2d27"/>
+<path d="M1050 0v420M1150 0v420M1250 0v420M1350 0v420M950 80h490M950 180h490M950 280h490M950 380h490" stroke="#22291b"/>
+<circle cx="77" cy="69" r="5" fill="#c8ef83"/><text x="98" y="75" fill="#a0ac92" font-family="monospace" font-size="14" letter-spacing="4">GITHUB WORKFLOW STUDIO</text>
+<text x="70" y="175" fill="#eff2e9" font-family="Arial, sans-serif" font-size="72" letter-spacing="-3">achievement</text><text x="70" y="252" fill="#c8ef83" font-family="Arial, sans-serif" font-size="80" font-weight="700" letter-spacing="-4">forge.</text>
+<text x="74" y="312" fill="#909c81" font-family="Arial, sans-serif" font-size="20">Plan the workflow. Preview every action. Build your next milestone.</text>
+<path d="M74 350h790" stroke="#30392a"/><text x="74" y="383" fill="#7f8e6e" font-family="monospace" font-size="12" letter-spacing="3">LOCAL FIRST / OPEN SOURCE</text><text x="675" y="383" fill="#c8ef83" font-family="monospace" font-size="12" letter-spacing="3">BY BRUNNODEV</text>
+<rect x="1032" y="103" width="221" height="221" rx="38" fill="#202a17" stroke="#6a804d" transform="rotate(-8 1142 213)"/><text x="1068" y="271" fill="#c8ef83" font-family="Arial, sans-serif" font-weight="700" font-size="167">F</text><circle cx="1260" cy="111" r="24" fill="#c8ef83"/><path d="m1250 111 7 7 14-15" fill="none" stroke="#253218" stroke-width="4"/>
+</svg>
